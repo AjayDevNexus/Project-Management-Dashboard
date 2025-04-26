@@ -4,7 +4,10 @@
 --
 # Frontend
 -- npx create-react-app frontend
+--
 -- npm start
+--
 -- npm install axios
+--
 -- npm install bootstrap
 --
